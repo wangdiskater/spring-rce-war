@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/stupidRumor.iml" filepath="$PROJECT_DIR$/stupidRumor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/spring-rce-war.iml" filepath="$PROJECT_DIR$/.idea/spring-rce-war.iml" />
     </modules>
   </component>
 </project>
